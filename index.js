@@ -1,1 +1,1 @@
-;alert('Im Working. Im JS. Im Beautiful. Im Worth it.')
+alert('Im Working. Im JS. Im Beautiful. Im Worth it.')
